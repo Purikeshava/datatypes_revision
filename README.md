@@ -1,2 +1,4 @@
 # datatypes_revision
-these are the revision notes i created to cover data types in python it really helped a lot i can easily revise all the concepts easily
+A comprehensive Python Data Types revision repository covering Numbers, Strings, Lists, Tuples, Sets, and Dictionaries with practical examples and Jupyter Notebook exercises. Created for easy revision, better conceptual understanding, and interview preparation.
+
+
